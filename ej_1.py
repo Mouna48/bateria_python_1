@@ -1,2 +1,2 @@
 nombre = input ("cual es tu nombre?")
-print ("hola "+""+ nombre)
+print ("hola "+""+ nombre) dasa
